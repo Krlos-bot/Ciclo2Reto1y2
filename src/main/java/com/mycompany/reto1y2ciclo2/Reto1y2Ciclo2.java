@@ -6,6 +6,10 @@ import javax.swing.JOptionPane;
  *
  * @author krlos
  */
+
+
+
+//Comentario de prueba
 public class Reto1y2Ciclo2 {
 
     public static void main(String[] args) {
