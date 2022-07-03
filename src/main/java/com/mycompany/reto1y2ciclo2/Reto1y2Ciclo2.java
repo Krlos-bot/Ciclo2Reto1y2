@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 
 
-//Comentario de prueba
+//Comentario de prueba repositorio
 public class Reto1y2Ciclo2 {
 
     public static void main(String[] args) {
