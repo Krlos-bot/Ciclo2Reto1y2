@@ -2,11 +2,6 @@ package com.mycompany.reto1y2ciclo2;
 
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author krlos
- */
-
 
 
 //Comentario de prueba repositorio
